@@ -1,5 +1,7 @@
 # Twitch stream recorder
 
+**No Longer works, API removed 😥**
+
 An node.js application that allows you to save broadcasts on your hard drive.
 
 ## Built With
